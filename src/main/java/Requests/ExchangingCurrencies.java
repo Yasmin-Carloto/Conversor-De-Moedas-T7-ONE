@@ -19,7 +19,7 @@ public class ExchangingCurrencies {
                 .setFieldNamingPolicy(FieldNamingPolicy.LOWER_CASE_WITH_UNDERSCORES)
                 .setPrettyPrinting()
                 .create();
-        String apiKey = "915799893787f3a48ee6b68b";
+        String apiKey = "";
         String baseAddress = "https://v6.exchangerate-api.com/v6/" + apiKey + "/pair";
 
 
