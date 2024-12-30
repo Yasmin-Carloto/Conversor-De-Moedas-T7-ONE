@@ -14,7 +14,7 @@ Além disso, a aplicação serve como projeto de conclusão da Formação Java e
 ## Use o projeto localmente
 1. Clone o repositório:
 ```
-git clone 
+git clone https://github.com/Yasmin-Carloto/Conversor-De-Moedas-T7-ONE.git
 ```
 2. Utilize sua IDE de preferência para abrí-lo;
 3. Modifique a variável apiKey por sua própria chave de acesso;
